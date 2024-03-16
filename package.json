@@ -1,0 +1,16 @@
+{
+  "name": "bootstrap-2",
+  "version": "1.0.0",
+  "description": "we will :\r - design UI of a website using Bootstrap\r - change and customize Sass variables\r <br>\r enjoy :)",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass -w scss/bootstrap.scss css/bootstrap.css" ,
+    "sass2": "sass -w scss/main.scss css/main.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.72.0"
+  }
+}
