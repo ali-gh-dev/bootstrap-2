@@ -15,4 +15,9 @@ body {
   border-bottom: solid 4px #8c2155;
 }
 
+#hero {
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../images/hero-bg-img.jpg") no-repeat center/cover;
+  height: 90vh;
+}
+
 /*# sourceMappingURL=main.css.map */

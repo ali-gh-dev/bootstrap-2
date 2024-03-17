@@ -20,3 +20,8 @@ body {
   opacity: 0.8;
   border-bottom: solid 4px $clr-primary;
 }
+
+#hero {
+  background: linear-gradient(rgba(0,0,0,0.6) , rgba(0,0,0,0.6)) , url("../images/hero-bg-img.jpg") no-repeat center/cover;
+  height: 90vh;
+}
