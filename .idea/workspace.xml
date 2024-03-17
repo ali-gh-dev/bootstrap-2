@@ -2,116 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2fec2b70-b6c0-4a0a-8917-810162f39987" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/main.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_accordion.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_breadcrumb.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_button-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_card.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_carousel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_close.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_containers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_dropdown.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_helpers.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_images.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_maps.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_modal.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_offcanvas.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_placeholders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_popover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_progress.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_root.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_spinners.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_toasts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_tooltip.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_transitions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_type.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_variables-dark.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/bootstrap-grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/bootstrap-reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/bootstrap-utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/bootstrap.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/forms/_floating-labels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/forms/_form-check.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/forms/_form-control.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/forms/_form-range.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/forms/_form-select.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/forms/_form-text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/forms/_input-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/forms/_labels.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/forms/_validation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/helpers/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/helpers/_color-bg.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/helpers/_colored-links.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/helpers/_focus-ring.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/helpers/_icon-link.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/helpers/_position.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/helpers/_ratio.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/helpers/_stacks.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/helpers/_stretched-link.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/helpers/_text-truncation.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/helpers/_visually-hidden.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/helpers/_vr.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/main.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_backdrop.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_banner.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_border-radius.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_box-shadow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_breakpoints.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_caret.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_color-mode.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_color-scheme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_container.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_deprecate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_lists.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_reset-text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_resize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_table-variants.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_text-truncate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_transition.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/mixins/_visually-hidden.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/tests/jasmine.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/tests/mixins/_auto-import-of-variables-dark.test.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/tests/mixins/_color-modes.test.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/tests/mixins/_media-query-color-mode-full.test.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/tests/mixins/_utilities.test.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/tests/sass-true/register.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/tests/sass-true/runner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/tests/utilities/_api.test.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/utilities/_api.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scss/vendor/_rfs.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/bootstrap.rtl.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scss/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/scss/main.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,14 +38,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bootstrap-1.5" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ali\Desktop\bootstrap-2" />
       <recent name="C:\Users\ali\Desktop\bootstrap-2\css" />
       <recent name="C:\Users\ali\Desktop\bootstrap-2\images" />
-      <recent name="C:\Users\ali\Desktop\bootstrap-2" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -168,7 +66,9 @@
       <workItem from="1710583724545" duration="1419000" />
       <workItem from="1710597684829" duration="1131000" />
       <workItem from="1710602559274" duration="3291000" />
-      <workItem from="1710620756750" duration="4920000" />
+      <workItem from="1710620756750" duration="5514000" />
+      <workItem from="1710665368788" duration="4092000" />
+      <workItem from="1710684965514" duration="3755000" />
     </task>
     <servers />
   </component>

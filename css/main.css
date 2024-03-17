@@ -10,4 +10,9 @@ body {
   line-height: 1.6;
 }
 
+#main-nav {
+  opacity: 0.8;
+  border-bottom: solid 4px #8c2155;
+}
+
 /*# sourceMappingURL=main.css.map */

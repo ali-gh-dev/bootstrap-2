@@ -9,9 +9,14 @@
   /* Safari, Android, iOS */
 }
 
+$clr-primary: #8c2155;
+
 body {
   font-family: "Vazir" !important;
   line-height: 1.6;
 }
 
-
+#main-nav {
+  opacity: 0.8;
+  border-bottom: solid 4px $clr-primary;
+}
