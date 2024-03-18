@@ -20,4 +20,19 @@ body {
   height: 90vh;
 }
 
+#our-team .card {
+  margin-bottom: 80px;
+  transition: all 0.3s linear;
+}
+#our-team .card i {
+  transition: all 0.3s linear;
+}
+#our-team .card:hover {
+  background: #8c2155;
+  color: white;
+}
+#our-team .card:hover i {
+  color: white;
+}
+
 /*# sourceMappingURL=main.css.map */

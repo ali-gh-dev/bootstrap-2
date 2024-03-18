@@ -22,6 +22,25 @@ body {
 }
 
 #hero {
-  background: linear-gradient(rgba(0,0,0,0.6) , rgba(0,0,0,0.6)) , url("../images/hero-bg-img.jpg") no-repeat center/cover;
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../images/hero-bg-img.jpg") no-repeat center/cover;
   height: 90vh;
+}
+
+#our-team .card {
+  margin-bottom: 80px;
+  transition: all 0.3s linear;
+
+  i {
+    transition: all 0.3s linear;
+  }
+
+  &:hover {
+    background: $clr-primary;
+    color: white;
+
+    i {
+      color: white;
+    }
+
+  }
 }
